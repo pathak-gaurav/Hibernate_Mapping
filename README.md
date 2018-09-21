@@ -8,7 +8,7 @@ Mapping Used:
 1. One to One
 2. One to Many
 3. Many to One (Uni Directional)
-4. 3. Many to One (Bi Directional)
+4. Many to One (Bi Directional)
 5. Many to Many
 
 Database Mapping created by Hibernate.
